@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fuck Off</string>
+    <string name="fuck_off_text">%1$s</string>
+    <string name="receive_new_text_button">New insult</string>
+</resources>
